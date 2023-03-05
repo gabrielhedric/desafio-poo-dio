@@ -1,58 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a98bf1-4e59-4ce8-9cf4-a5f4dffa0012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/especial/ContaEspecial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/CalculadorDeImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/SeguroDeVida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/modelo/Tributavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteArrayListEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteArrayPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteArrayReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteDeserializacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteLinkedListEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteSerializacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank/src/br/com/bytebank/banco/teste/TesteTributaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/gerenciador-de-cursos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TempoComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaBuscaAlunosCurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaCurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaCurso2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaCursoAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaListaAula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-de-cursos/src/br/com/slat/TestaListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../primeiro-projeto/primeiro-projeto.iml" afterDir="false" />
+    <list default="true" id="b3a98bf1-4e59-4ce8-9cf4-a5f4dffa0012" name="Changes" comment="commits">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dio-trilha-java-basico" beforeDir="false" afterPath="$PROJECT_DIR$/../dio-trilha-java-basico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d8b99dbe-7304-47a1-8d92-97fc59a2bb6f" />
+        <option name="url" value="git@github.com:gabrielhedric/desafio-poo-dio.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2McFUIAF6e7cyQLQtO0bjYKJW5f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,6 +68,26 @@
       <option name="presentableId" value="Default" />
       <updated>1678058978436</updated>
     </task>
+    <task id="LOCAL-00001" summary="git ignore commit">
+      <created>1678059175968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678059175968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commits">
+      <created>1678059228255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678059228255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore commit" />
+    <MESSAGE value="commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="commits" />
   </component>
 </project>
